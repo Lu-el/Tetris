@@ -1,0 +1,25 @@
+body {
+  font-family: sans-serif;
+  background-color: rgb(212, 233, 193);
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 50px;
+  text-transform: uppercase;
+  font-weight: 900;
+}
+
+.container {
+  width: fit-content;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.game-area {
+  display: block;
+  background-color: rgb(255, 255, 255);
+  border-bottom: 3px solid rgb(50, 78, 24);
+  border-left: 2px solid rgb(50, 78, 24);
+  border-right: 2px solid rgb(50, 78, 24);
+}
